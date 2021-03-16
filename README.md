@@ -15,13 +15,13 @@ Click install button.
 
 libraries needed:
 
-Ethernet2
+Ethernet2.h
 
-FastLED
+FastLED.h
 
-AccelStepper
+AccelStepper.h
 
-M5Stack
+M5Stack.h
 
 https://www.airspayce.com/mikem/arduino/AccelStepper/index.html
  
