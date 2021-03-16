@@ -13,10 +13,10 @@ Select the version you need from a drop-down box.
 Click install button.
 
 libraries needed:
-Ethernet2.h
-FastLED.h
-AccelStepper.h
-M5Stack.h
+Ethernet2
+FastLED
+AccelStepper
+M5Stack
 https://www.airspayce.com/mikem/arduino/AccelStepper/index.html
  
  
